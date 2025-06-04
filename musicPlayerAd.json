@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/9507723030",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/2942314687",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/8753118956",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/1117494483",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -168,6 +168,12 @@
       "name": "Music NAZA & Lyrics Offline",
       "packageName": "com.naza.agogo.gouss",
       "icon": "https://play-lh.googleusercontent.com/2E9ZrEH95lC2OiovLxfeAMHsgCDijjgC5BNoaOAXiJzhWMQEn_8JUBsRJ-brAQHXqWU=w240-h480",
+      "download": "+50k"
+    },
+     {
+      "name": "Leo Rojas & Lyrics Offline",
+      "packageName": "com.leorojas.amigos.gouss",
+      "icon": "https://play-lh.googleusercontent.com/0zgn1dxydvPhrOCdLNcyfYxliELcB2B3UFCQlMExKGIQihoH3vfg1HKN6gvTpYojKw=w240-h480",
       "download": "+50k"
     },
     {
